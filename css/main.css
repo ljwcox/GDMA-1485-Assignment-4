@@ -100,6 +100,10 @@ body {
 	background-clip: content-box;
 }
 
+#bg-navy {
+	background-color: #101e29;
+	color: #fff;
+}
 
 /*---------------------------------------------------------------
 6.0 COMPONENTS
@@ -111,6 +115,17 @@ body {
 
 /*--NAVIGATION--*/
 
+header ul {
+	display: inline-block;
+}
+
+li {
+	font: 1.2rem;
+}
+
+a {
+	text-decoration: none;
+}
 /*---------------------------------------------------------------
 7.0 UTILITIES
 -------------------------------------------------------------- */
